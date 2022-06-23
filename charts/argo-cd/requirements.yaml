@@ -1,0 +1,5 @@
+data:
+  repositories: |
+    - type: helm
+      url: harbor55.tkg.home.lab/argocd/
+      name: stable
